@@ -1,0 +1,53 @@
+.wrapper {
+    width: 50%;
+    position: absolute;
+    left: 400px;
+    top: 0px;
+}
+
+.header {
+    background-color: #282828;
+    color: #ffffff;
+}
+
+.header h1 {
+    font-size: 40px;
+    margin-bottom: 2px;
+    margin-left: 5px;
+}
+
+.header h4 {
+    font-size: 20px;
+    margin: 2px;
+}
+
+.header p {
+    font-size: 15px;
+    margin: 10px;
+    color: #b3b3b3;
+}
+
+.header p b {
+    font-size: 15px;
+    color: white;
+    margin: 0px 8px;
+}
+
+.mainbody p {
+    width: 85%;
+    text-align: center;
+}
+
+ul li h2 {
+    margin-bottom: 10px;
+    font-size: 24px;
+    color: #282828;
+}
+
+.Sub-list {
+    margin: 10px;
+    color: #282828;
+}
+
+
+
